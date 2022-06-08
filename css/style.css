@@ -283,6 +283,7 @@ main {
   height: auto;
   margin: 0 auto;
   margin-top: 50px;
+  text-align: center;
 }
 
 .product-detail--title h2 {
@@ -482,6 +483,7 @@ main {
   line-height: 1.8rem;
   color: var(--black);
   font-family: "DM Sans", sans-serif;
+  cursor: pointer;
 }
 .plan-card--ca span {
   display: inline-block;
